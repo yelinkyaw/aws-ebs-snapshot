@@ -15,7 +15,7 @@ aws_secret_key = 'AWS Secret Key'
 # ap-southeast-2 (Sydney)
 # se-east-1 (Sao Paulo)
 aws_region = 'ASW Region' 
-aws_volume_id = 'vol-92cd98b1'
+aws_volume_id = 'vol-volumeid'
 max_snapshot = 5
 
 # Connect to AWS
